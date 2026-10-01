@@ -15,6 +15,7 @@ I am a cybersecurity student who is currently developing his skills to help make
 ### 🧰 Technical Toolkit
 
 - **Languages:** Python, Bash, C, C++
+- **Version Control System:** Git, GitHub
 - **Systems & Infrastructure:** Linux (Debian, Arch, RHEL),  Virtualization
 
 ---
