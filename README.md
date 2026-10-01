@@ -1,4 +1,4 @@
-# Hi, I'm <YourHandle> 👋
+# Hey there! 👋
 
 I am a cybersecurity student who is currently developing his skills to help make this world a safe place.
 
