@@ -24,8 +24,8 @@ I am a cybersecurity student who is currently developing his skills to help make
 
 | Repository | Focus Area | Description |
 | :--- | :--- | :--- |
-| [`recon-tool`](#) | Network Recon | Fetches the open ports in a given URL/IPv4 address and gives a brief description of the services. |
-| [`security-wargames`](#) | Learning Cyber Security | A brief look into how I cracked the levels of some cyber security games. |
+| [`recon-tool`](https://github.com/abhishek-karmakar-sec/recon-tool) | Network Recon | Fetches the open ports in a given URL/IPv4 address and gives a brief description of the services. |
+| [`security-wargames`](https://github.com/abhishek-karmakar-sec/security-wargames) | Learning Cyber Security | A brief look into how I cracked the levels of some cyber security games. |
 | [`Coming-Soon`](#) | Be Patient | Still cooking up something. |
 
 ---
